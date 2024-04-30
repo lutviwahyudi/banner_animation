@@ -10,6 +10,11 @@ body {
     margin-top: 15px;
 }
 
+.navbar-right {
+  float: right;
+  margin: 0;
+}
+
 .banner {
     display: flex;
     align-items: center;
@@ -165,7 +170,7 @@ a {
 .wrapper .linkedin:hover,
 .wrapper .linkedin:hover .tooltip,
 .wrapper .linkedin:hover .tooltip::before {
-  background: #222222;
+  background: #12af04;
   color: #ffffff;
 }
 
