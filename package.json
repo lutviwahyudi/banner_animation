@@ -1,0 +1,19 @@
+{
+  "name": "bannerprofile",
+  "version": "1.0.0",
+  "description": "My Portfolio",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lutvi wahyudi",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "express-ejs-layouts": "^2.5.1",
+    "g": "^2.0.1",
+    "nodemon": "^3.1.0"
+  }
+}
